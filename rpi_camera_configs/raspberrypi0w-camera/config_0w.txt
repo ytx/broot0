@@ -1,0 +1,18 @@
+# GPU memory split
+gpu_mem=128
+
+# Camera settings
+start_x=1
+disable_camera_led=1
+
+# HDMI settings
+hdmi_force_hotplug=1
+hdmi_drive=2
+hdmi_group=1
+hdmi_mode=16
+
+# Disable rainbow splash
+disable_splash=1
+
+# Boot options
+boot_delay=0
